@@ -1,0 +1,18 @@
+{
+    "name": "feoktistov_aa/my-package",
+    "description": "my package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "FeoktistovAa\\MyPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Feoktistov Artyom",
+            "email": "aoddi@yandex.ru"
+        }
+    ],
+    "require": {}
+}
