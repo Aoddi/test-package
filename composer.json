@@ -14,5 +14,7 @@
             "email": "aoddi@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.2"
+    }
 }
